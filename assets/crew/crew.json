@@ -1,0 +1,133 @@
+{
+ "plate": [
+  2040,
+  1344
+ ],
+ "body": "crew_body.webp",
+ "group": [
+  150,
+  1310
+ ],
+ "men": [
+  {
+   "id": "sal",
+   "name": "Sal",
+   "role": "Foreman",
+   "head": [
+    463,
+    228,
+    120,
+    176
+   ],
+   "chin": 398,
+   "seam": 452,
+   "neck": [
+    463,
+    65
+   ],
+   "ext": 380,
+   "split": [
+    150,
+    640
+   ],
+   "flare": 60,
+   "src": "head_sal.webp",
+   "box": [
+    321,
+    36,
+    285,
+    419
+   ]
+  },
+  {
+   "id": "dev",
+   "name": "Dev",
+   "role": "Structural engineer",
+   "head": [
+    818,
+    230,
+    118,
+    166
+   ],
+   "chin": 394,
+   "seam": 458,
+   "neck": [
+    817,
+    45
+   ],
+   "ext": 440,
+   "split": [
+    640,
+    1001
+   ],
+   "flare": 42,
+   "src": "head_dev.webp",
+   "box": [
+    679,
+    49,
+    279,
+    412
+   ]
+  },
+  {
+   "id": "marcus",
+   "name": "Marcus",
+   "role": "Site carpenter",
+   "head": [
+    1185,
+    248,
+    116,
+    160
+   ],
+   "chin": 434,
+   "seam": 446,
+   "neck": [
+    1198,
+    64
+   ],
+   "ext": 330,
+   "split": [
+    1001,
+    1368
+   ],
+   "flare": 95,
+   "src": "head_marcus.webp",
+   "box": [
+    1035,
+    73,
+    327,
+    376
+   ]
+  },
+  {
+   "id": "rusty",
+   "name": "Rusty",
+   "role": "Plant operator",
+   "head": [
+    1552,
+    224,
+    118,
+    150
+   ],
+   "chin": 368,
+   "seam": 440,
+   "neck": [
+    1552,
+    100
+   ],
+   "ext": 360,
+   "split": [
+    1368,
+    1890
+   ],
+   "flare": 42,
+   "src": "head_rusty.webp",
+   "box": [
+    1406,
+    60,
+    293,
+    383
+   ]
+  }
+ ]
+}

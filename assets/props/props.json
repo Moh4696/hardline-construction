@@ -1,0 +1,61 @@
+{
+ "traffic": {
+  "w": 415,
+  "h": 1200,
+  "crop": [
+   441,
+   204,
+   0.5235602094240838
+  ],
+  "lamps": [
+   {
+    "c": "red",
+    "x": 0.4987,
+    "y": 0.1818,
+    "r": 0.2084
+   },
+   {
+    "c": "amber",
+    "x": 0.501,
+    "y": 0.4268,
+    "r": 0.1963
+   },
+   {
+    "c": "green",
+    "x": 0.5033,
+    "y": 0.6718,
+    "r": 0.1843
+   }
+  ]
+ },
+ "cone": {
+  "w": 750,
+  "h": 1000,
+  "frame": "full",
+  "loop": "loop_cone.mp4"
+ },
+ "shovel": {
+  "w": 750,
+  "h": 1000,
+  "frame": "full",
+  "loop": "loop_shovel.mp4"
+ },
+ "beam": {
+  "w": 750,
+  "h": 1000,
+  "frame": "full",
+  "loop": "loop_beam.mp4"
+ },
+ "level": {
+  "w": 750,
+  "h": 1000,
+  "frame": "full",
+  "loop": "loop_level.mp4"
+ },
+ "manhole": {
+  "w": 1000,
+  "h": 1000,
+  "frame": "full",
+  "loop": "loop_manhole.mp4"
+ }
+}
